@@ -1,4 +1,4 @@
-# Task List Application - Built with Cursor AI
+# Vibe Coding (Built with Cursor AI)
 
 This project demonstrates the power of Vibe coding using Cursor AI to generate a full-stack task management application. It showcases how AI-assisted development can enhance productivity and code quality through a collaborative development experience.
 
