@@ -1,6 +1,6 @@
 # Task List Application - Built with Cursor AI
 
-This project demonstrates how to efficiently use Cursor AI to generate a full-stack task management application. It showcases the power of AI-assisted development and structured project generation.
+This project demonstrates the power of Vibe coding using Cursor AI to generate a full-stack task management application. It showcases how AI-assisted development can enhance productivity and code quality through a collaborative development experience.
 
 ## Project Overview
 
@@ -9,6 +9,17 @@ A modern task management application built with:
 - Backend: Node.js + Express
 - Database: MongoDB
 - Docker for containerization
+
+## Vibe Coding with Cursor AI
+
+The development of this project was enhanced by Cursor AI's capabilities:
+
+- **AI-Powered Code Generation**: Rapidly implemented features with AI assistance
+- **Intelligent Code Completion**: Accelerated development with context-aware suggestions
+- **Real-time Collaboration**: Seamless interaction between developer and AI assistant
+- **Code Understanding**: AI helped navigate and understand the codebase
+- **Best Practices**: AI ensured adherence to modern development standards
+- **Rapid Prototyping**: Quickly iterated on features with AI guidance
 
 ## How This Project Was Generated
 
