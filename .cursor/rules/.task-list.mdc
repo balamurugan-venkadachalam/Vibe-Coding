@@ -1,1 +1,191 @@
- 
+# Task List Application - Cursor AI Generation Rules
+
+## Project Context
+This document outlines the rules and guidelines used by Cursor AI to generate a full-stack task management application.
+
+## Code Generation Rules
+
+### 1. Project Structure Generation
+```rules
+- Follow standard MERN stack architecture
+- Maintain clear separation of concerns
+- Use modular component design
+- Implement clean code principles
+```
+
+### 2. Backend Rules
+```rules
+- RESTful API design patterns
+- MongoDB with Mongoose schemas
+- Express middleware for error handling
+- Environment-based configuration
+- Health check endpoints
+- CORS and security middleware
+```
+
+### 3. Frontend Rules
+```rules
+- React functional components
+- Material-UI for styling
+- Context API for state management
+- Custom hooks for reusability
+- Error boundary implementation
+- Loading state handling
+```
+
+### 4. Testing Rules
+```rules
+- Jest for unit testing
+- React Testing Library for components
+- Integration tests for API endpoints
+- Test coverage requirements
+```
+
+### 5. Docker Rules
+```rules
+- Multi-stage builds
+- Environment variable handling
+- Volume management
+- Network configuration
+```
+
+## Generation Process
+
+### Step 1: Project Initialization
+1. Create project structure based on TASKS.md
+2. Initialize package.json files
+3. Set up development environment
+
+### Step 2: Backend Development
+1. Generate Express server boilerplate
+2. Create MongoDB connection
+3. Implement task model and schema
+4. Generate API endpoints
+5. Add validation and error handling
+
+### Step 3: Frontend Development
+1. Create React components
+2. Implement Material-UI styling
+3. Set up global state management
+4. Add API integration
+5. Implement error handling
+
+### Step 4: Integration
+1. Configure CORS
+2. Set up environment variables
+3. Create Docker configuration
+4. Implement health checks
+
+## Code Standards
+
+### Naming Conventions
+```standards
+- Components: PascalCase
+- Functions: camelCase
+- Files: kebab-case
+- Constants: UPPER_SNAKE_CASE
+```
+
+### File Structure
+```standards
+- Group by feature
+- Separate concerns
+- Maintain consistency
+- Use index files for exports
+```
+
+### Component Structure
+```standards
+- Props interface/type definitions
+- Clear component responsibilities
+- Proper error handling
+- Loading state management
+```
+
+### State Management
+```standards
+- Context for global state
+- Local state for component-specific data
+- Proper error boundaries
+- Loading indicators
+```
+
+## Testing Requirements
+
+### Unit Tests
+```testing
+- Component rendering
+- State updates
+- Event handling
+- Error scenarios
+```
+
+### Integration Tests
+```testing
+- API endpoints
+- Database operations
+- Authentication flows
+- Error handling
+```
+
+### End-to-End Tests
+```testing
+- User flows
+- Cross-browser compatibility
+- Responsive design
+- Performance metrics
+```
+
+## Documentation Requirements
+
+### Code Documentation
+```documentation
+- JSDoc comments
+- Type definitions
+- Function descriptions
+- Component props
+```
+
+### API Documentation
+```documentation
+- Endpoint descriptions
+- Request/response formats
+- Error codes
+- Authentication requirements
+```
+
+## Deployment Guidelines
+
+### Docker Configuration
+```deployment
+- Multi-stage builds
+- Environment variables
+- Volume mounts
+- Network setup
+```
+
+### Environment Setup
+```deployment
+- Development
+- Testing
+- Production
+- Staging
+```
+
+## Maintenance Rules
+
+### Code Updates
+```maintenance
+- Version control
+- Dependency updates
+- Security patches
+- Performance optimization
+```
+
+### Monitoring
+```maintenance
+- Error tracking
+- Performance metrics
+- Usage analytics
+- Health checks
+``` 
