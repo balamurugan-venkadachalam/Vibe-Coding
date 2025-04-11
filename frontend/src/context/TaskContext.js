@@ -3,7 +3,7 @@ import axios from 'axios';
 
 const TaskContext = createContext();
 
-const API_BASE_URL = 'http://localhost:5000/api/v1';
+const API_BASE_URL = 'http://localhost:8080/api/v1';
 
 export const TaskProvider = ({ children }) => {
   const [tasks, setTasks] = useState([]);
