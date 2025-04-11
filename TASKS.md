@@ -1,59 +1,59 @@
 # To-Do App MVP Tasks
 
 ## Backend Development
-- [ ] Set up Node.js/Express backend project structure
-- [ ] Configure MongoDB connection
-- [ ] Implement health check endpoints (readiness and liveness)
-- [ ] Create basic task data structure (id, title, description, status)
-- [ ] Implement task creation API endpoint
-- [ ] Implement task retrieval API endpoint
-- [ ] Implement task update API endpoint
-- [ ] Implement task deletion API endpoint
-- [ ] Add task completion toggle endpoint
-- [ ] Add task priority levels (High, Medium, Low)
-- [ ] Add due date functionality
-- [ ] Implement task filtering by status
-- [ ] Implement basic search functionality
-- [ ] Add data validation
-- [ ] Add error handling
-- [ ] Set up unit tests
-- [ ] Set up integration tests
-- [ ] Create Dockerfile for backend
-- [ ] Add Docker environment variables
-- [ ] Add API documentation
+- [x] Set up Node.js/Express backend project structure
+- [x] Configure MongoDB connection
+- [x] Implement health check endpoints (readiness and liveness)
+- [x] Create basic task data structure (id, title, description, status)
+- [x] Implement task creation API endpoint
+- [x] Implement task retrieval API endpoint
+- [x] Implement task update API endpoint
+- [x] Implement task deletion API endpoint
+- [x] Add task completion toggle endpoint
+- [x] Add task priority levels (High, Medium, Low)
+- [x] Add due date functionality
+- [x] Implement task filtering by status
+- [x] Implement basic search functionality
+- [x] Add data validation
+- [x] Add error handling
+- [x] Set up unit tests
+- [x] Set up integration tests
+- [x] Create Dockerfile for backend
+- [x] Add Docker environment variables
+- [x] Add API documentation
 
 ## Frontend Development
-- [ ] Set up React frontend project structure
-- [ ] Create basic layout
-- [ ] Implement home page (Hello World)
-- [ ] Create task input form
-- [ ] Create task list view
-- [ ] Add task item component
-- [ ] Implement basic styling and layout
-- [ ] Add loading states
-- [ ] Connect to backend API
-- [ ] Implement task creation functionality
-- [ ] Implement task deletion functionality
-- [ ] Implement task editing functionality
-- [ ] Add task completion toggle
-- [ ] Add task priority levels
-- [ ] Add due date functionality
-- [ ] Implement task filtering by status
-- [ ] Implement basic search functionality
-- [ ] Add success/error notifications
+- [x] Set up React frontend project structure
+- [x] Create basic layout
+- [x] Implement home page (Hello World)
+- [x] Create task input form
+- [x] Create task list view
+- [x] Add task item component
+- [x] Implement basic styling and layout
+- [x] Add loading states
+- [x] Connect to backend API
+- [x] Implement task creation functionality
+- [x] Implement task deletion functionality
+- [x] Implement task editing functionality
+- [x] Add task completion toggle
+- [x] Add task priority levels
+- [x] Add due date functionality
+- [x] Implement task filtering by status
+- [x] Implement basic search functionality
+- [x] Add success/error notifications
 - [ ] Implement keyboard shortcuts
 - [ ] Add confirmation dialogs for delete actions
 - [ ] Implement drag-and-drop for task reordering
-- [ ] Set up unit tests
-- [ ] Set up integration tests
-- [ ] Create Dockerfile for frontend
-- [ ] Add Docker environment variables
+- [x] Set up unit tests
+- [x] Set up integration tests
+- [x] Create Dockerfile for frontend
+- [x] Add Docker environment variables
 
 ## Docker Setup
-- [ ] Create docker-compose.yml
-- [ ] Add MongoDB container configuration
-- [ ] Set up Docker networking
-- [ ] Add Docker documentation
+- [x] Create docker-compose.yml
+- [x] Add MongoDB container configuration
+- [x] Set up Docker networking
+- [x] Add Docker documentation
 
 ## Cross-Browser Testing
 - [ ] Test responsive design
